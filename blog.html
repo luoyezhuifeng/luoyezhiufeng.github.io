@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>LY.Z.F.</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" type="image/x-icon" href="img/lok.ico">
+<!-- <link rel="stylesheet" href="https://cdn.bootcss.com/normalize/7.0.0/normalize.css" > -->
+<link meida="(orientation:portrait)and(min-width:680px)" rel="stylesheet" href="styles/main.css">
+<link media="screen and (max-width:680px)" rel="stylesheet" href="styles/stylemini.css">
+<style>
+</style>
+</head>
+<body>
+<div class="blog" id="app">
+<div class="p1">
+<video id="video1" autoplay="autoplay" poster="img/snow.jpg" loop="loop" >
+<source src="video/8-test.webm">
+</video>
+<div class="beijing"></div>
+<div class="container">
+<div class="navigation-bar">
+    <div class="logoder">
+      <a href="index.html"><div class="logobar"></div></a>
+    </div>
+    <ul class="navigation">
+      <li><router-link to="/" class="indexacolor">Blog</router-link></li>
+      <li><router-link to="/write" class="indexacolor">Write</router-link></li>
+      <li><router-link to="/design" class="indexacolor">Design</router-link></li>
+      <li><router-link to="/silly" class="indexacolor">Silly</router-link></li>
+      <li><a href="contact.html" class="indexacolor">Contact</a></li>
+    </ul>
+    <div class="active">
+      <div class="indexline"></div>
+      <div class="indexline"></div>
+      <div class="indexline"></div>
+    </div>
+    <ul class="mini-navigation">
+      <li><router-link to="/" class="indexacolor">Blog</router-link></li>
+      <li><router-link to="/write" class="indexacolor">Write</router-link></li>
+      <li><router-link to="/design" class="indexacolor">Design</router-link></li>
+      <li><router-link to="/silly" class="indexacolor">Silly</router-link></li>
+      <li><a href="contact.html" class="indexacolor">Contact</a></li>
+    </ul>
+</div>
+</div>
+   <div id="fixed_tool" >
+      <div id="music"><div class="music_ico icoon"></div></div>
+      <div id="gotop" class="none"><div class="gotop_ico"></div></div>
+  </div>
+</div>
+<div class="container blog-sd">
+  <router-view>
+  </router-view>
+<footer class="footer" id="contact">
+  <div class="container">
+    <div class="contact">
+    <p>Touch with me through</p>
+    <a target="_blank" href="https://weibo.com/5602165341">Weibo</a>
+    <a target="_blank" href="https://twitter.com/ye_zhui">Twitter</a>
+    <a target="_blank" href="mailto:729895951@qq.com">E-Mail</a>
+    <a target="_blank" href="http://i.ui.cn/ucenter/282624.html">UI-CN</a>
+    <a target="_blank" href="https://music.163.com/radio/?id=350245308&userid=304513105">Radio</a>
+    </div>
+    <p class="copyright">Copyright © 2018 LY.Z.F.	&nbsp&nbsp 皖ICP备18010366号-1</p>
+  </div>
+</footer>
+</div>
+</div>
+<script src="js/jquery.js"></script>
+<script src="js/vue.js"></script>
+<script src="js/vue-router.js"></script>
+<script src="js/blog.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

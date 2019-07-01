@@ -1,0 +1,94 @@
+{
+ "address": "1NkWU4oTZRrkMAvfSfCDbA648AJrQa5qZz",
+ "address_index": 30007295,
+ "background-color": "#FFF",
+ "clone_root": "template-new",
+ "cloned_from": "1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D",
+ "description": "Home of LuoYeZhuiFeng",
+ "files": {
+  "fonts/Akkurat-Light.ttf": {
+   "sha512": "f88897e74989aa988c98a4a69677c2e3c46fd3e2ead02a64d345a42f987c7475",
+   "size": 153672
+  },
+  "fonts/Akkurat.ttf": {
+   "sha512": "de86532f34a22f35ba614d54bcbc6865a3b0cfeb621a2eff19b9cde6c7c42a96",
+   "size": 141260
+  },
+  "fonts/DIN-LightItalic.otf": {
+   "sha512": "c9db27fb9ca6609fa654b411610d742fa65d3159cab7accfcec411b8bb145ed4",
+   "size": 27640
+  },
+  "fonts/Lato-Bold.ttf": {
+   "sha512": "c380b98df6986895c4077daa240bd55a7eeea2a3d215cbd47c931b1df9301737",
+   "size": 633240
+  },
+  "fonts/Lato-Regular.ttf": {
+   "sha512": "86a0342fe69f092c044c04c42e906628674b71b71332f262ee77f56888141555",
+   "size": 632632
+  },
+  "img/IMG_6374.JPG": {
+   "sha512": "799d3bcad10b2996e4f5da69129ea0e748759960854fb87918265b8435fac561",
+   "size": 29777
+  },
+  "img/IMG_6374.png": {
+   "sha512": "3adf2130d59e87b0878ce623b368dea3166772f5f923b347be1b75c979e13882",
+   "size": 81915
+  },
+  "img/bitbug_favicon.ico": {
+   "sha512": "8b3d7bcac25798cff4a5aa37b81be9f1eed2840a6dd652497bab065872c7a2d7",
+   "size": 16702
+  },
+  "img/logo7.png": {
+   "sha512": "cb9322df0eec0de4fbdf069931117b4fbc830accf0893fb662256cd0909ed5fd",
+   "size": 37631
+  },
+  "img/logo8.png": {
+   "sha512": "dd171c72d27881debafafd26d7c9b74584b2a49c7b4209d56d0c78d5d81355e5",
+   "size": 37558
+  },
+  "img/lyzf.ico": {
+   "sha512": "2b4e86fec6161b272e972eb6b7a03eec63b4816311fc364a8b9941255b0c7f4f",
+   "size": 4286
+  },
+  "img/touxiang.jpg": {
+   "sha512": "c902fc3e70e18e51082321f307a77f40d67e7cc0bb92412f0ecd79ac70a25507",
+   "size": 3836
+  },
+  "index.html": {
+   "sha512": "c223123c61829ac407ea4b54e585a54885f494cc481f147d1fe1a99c84420928",
+   "size": 7150
+  },
+  "js/ZeroFrame.js": {
+   "sha512": "42125c7aa72496455e044e3fd940e0f05db86824c781381edb7a70f71a5f0882",
+   "size": 3370
+  },
+  "js/jquery-3.3.1.js": {
+   "sha512": "e525248b09a6fb4022244682892e67bbf64a3e875eb889db43b0a24ab4a75077",
+   "size": 271751
+  },
+  "js/main.js": {
+   "sha512": "cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce",
+   "size": 0
+  },
+  "styles/style.css": {
+   "sha512": "9fbac50609a2def31057e45e0120a42bfd3f6331150801219becbaa8866345f4",
+   "size": 5147
+  },
+  "video/1.mp4": {
+   "sha512": "f2337de6a3e09592167b7f53ea533cb6e364fdedf3ee4fee5c4045c36f94e621",
+   "size": 2781677
+  }
+ },
+ "ignore": "",
+ "inner_path": "content.json",
+ "modified": 1519436233,
+ "postmessage_nonce_security": true,
+ "signers_sign": "HObpTQHEv94MtzIMAY5vEqecLxtmMStksQOlDmwT7Z3dRc51nmGUiyFKCt/srM+bqD1YN/RAd91qGP79xCrBxhE=",
+ "signs": {
+  "1NkWU4oTZRrkMAvfSfCDbA648AJrQa5qZz": "G+pOCPHMTAt/SaZLKj6DXPkhdyzxEBo+6+gDmWJ2SFk7L9McxE8oFUIkLi1cJ7RoDP8DV9f7N0FEZjhik1g9yOY="
+ },
+ "signs_required": 1,
+ "title": "LY.Z.F.",
+ "translate": ["js/all.js"],
+ "zeronet_version": "0.5.6"
+}
